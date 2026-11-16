@@ -121,25 +121,25 @@ En la versión mejorada, cuando los cinco hilos terminan correctamente, el resul
 En esta sección se presentan las capturas de los tres códigos originales, sus ejecuciones y la nueva versión mejorada.
 
 ### Código original 00
-[Insertar captura del primer código]
+![Evidencia 1](evidencias/Captura%20de%20pantalla%202026-11-16%20175028.png)
 
 ### Ejecución del código 00
-[Insertar captura del resultado]
+![Evidencia 2](evidencias/Captura%20de%20pantalla%202026-11-16%20175314.png)
 
 ### Código original 01
-[Insertar captura del segundo código]
+![Evidencia 3](evidencias/Captura%20de%20pantalla%202026-11-16%20175100.png)
 
 ### Ejecución del código 01
-[Insertar captura del resultado]
+![Evidencia 4](evidencias/Captura%20de%20pantalla%202026-11-16%20175354.png)
 
 ### Código original 02
-[Insertar captura del tercer código]
+![Evidencia 5](evidencias/Captura%20de%20pantalla%202026-11-16%20180150.png)
 
 ### Ejecución del código 02
-[Insertar captura del resultado]
+![Evidencia 6](evidencias/Captura%20de%20pantalla%202026-11-16%20180258.png)
 
 ### Código mejorado
-[Insertar captura del nuevo código]
+![Evidencia 7](evidencias/Captura%20de%20pantalla%202026-11-16%20180755.png)
 
 ### Ejecución del código mejorado
 [Insertar captura del resultado]
