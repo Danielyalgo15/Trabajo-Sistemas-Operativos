@@ -47,15 +47,16 @@ La versión mejorada conserva el funcionamiento principal, pero incorpora una me
 
 **Resultado de la ejecución original**
 
-![Resultado original](evidencias/resultado-original.png)
+![Resultado original](evidencias/Captura%20de%20pantalla%202026-11-15%20183529.png)
 
 **Código mejorado**
 
-![Código mejorado](evidencias/codigo-mejorado.png)
+![Código mejorado](evidencias/Captura%20de%20pantalla%202026-11-15%20184407.png)
+![Resultado mejorado](evidencias/Captura%20de%20pantalla%202026-11-15%20184421.png)
 
 **Resultado de la ejecución mejorada**
 
-![Resultado mejorado](evidencias/resultado-mejorado.png)
+![Evidencia adicional](evidencias/Captura%20de%20pantalla%202026-11-15%20184500.png)
 
 ### 7. Conclusión
 
