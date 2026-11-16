@@ -133,10 +133,10 @@ En esta sección se presentan las capturas de los tres códigos originales, sus 
 ![Evidencia 4](evidencias/Captura%20de%20pantalla%202026-11-16%20175354.png)
 
 ### Código original 02
-
+![Evidencia 8](evidencias/Captura%20de%20pantalla%202026-11-16%20175437.png)
 
 ### Ejecución del código 02
-
+![Evidencia 9](evidencias/Captura%20de%20pantalla%202026-11-16%20175140.png)
 
 ### Código mejorado
 ![Evidencia 5](evidencias/Captura%20de%20pantalla%202026-11-16%20180150.png)
