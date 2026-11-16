@@ -43,7 +43,7 @@ La versión mejorada conserva el funcionamiento principal, pero incorpora una me
 
 **Código original**
 
-![Código original](evidencias/Captura de pantalla 2026-11-15 183518.png)
+![Código original](evidencias/Captura%20de%20pantalla%202026-11-15%20183518.png)
 
 **Resultado de la ejecución original**
 
