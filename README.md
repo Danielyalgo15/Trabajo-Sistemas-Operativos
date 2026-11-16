@@ -136,9 +136,10 @@ En esta sección se presentan las capturas de los tres códigos originales, sus 
 ![Evidencia 5](evidencias/Captura%20de%20pantalla%202026-11-16%20180150.png)
 
 ### Ejecución del código 02
-![Evidencia 6](evidencias/Captura%20de%20pantalla%202026-11-16%20180258.png)
+
 
 ### Código mejorado
+![Evidencia 6](evidencias/Captura%20de%20pantalla%202026-11-16%20180258.png)
 ![Evidencia 7](evidencias/Captura%20de%20pantalla%202026-11-16%20180755.png)
 
 ### Ejecución del código mejorado
